@@ -1,5 +1,8 @@
 # Scrimba-Style Timeline Demo
 
+https://github.com/user-attachments/assets/bac3cd6b-b659-495d-8a4e-ea442ff92d3
+
+
 A tiny React demo of the core idea behind Scrimba: code lessons do not have to be flat videos. They can be replayable, editable timelines.
 
 This app plays through a short HTML/CSS lesson. As the timeline moves, the Monaco editor jumps between recorded code states and the iframe preview renders the current result. Pause anywhere, edit the code, and the preview updates immediately.
