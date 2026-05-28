@@ -1,6 +1,7 @@
 # Scrimba-Style Timeline Demo
 
-https://github.com/user-attachments/assets/bac3cd6b-b659-495d-8a4e-ea442ff92d3
+
+https://github.com/user-attachments/assets/daa07b8c-b7e4-4cb5-98cf-cae029d41a83
 
 
 A tiny React demo of the core idea behind Scrimba: code lessons do not have to be flat videos. They can be replayable, editable timelines.
